@@ -9,6 +9,8 @@ package com.yuan.onlineprograming;
  * @create 2022/08/16
  */
 public class LC1374 {
+    public static void main(String[] args) {
+    }
 
     public String generateTheString(int n) {
         StringBuilder sb = new StringBuilder();
